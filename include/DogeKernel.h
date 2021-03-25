@@ -5,6 +5,6 @@ class DogeKernel{
 public:
 	DogeKernel();
 private:
-}
+};
 
 #endif
